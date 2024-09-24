@@ -1,7 +1,7 @@
 local Rayfield = loadstring(game:HttpGet('https://sirius.menu/rayfield'))()
 
 local Window = Rayfield:CreateWindow({
-    Name = "Multi-Script Hub",
+    Name = "Rivals ESP Hub",
     LoadingTitle = "Anti-Sweats 4Ever",
     LoadingSubtitle = "by EuroMH",
     ConfigurationSaving = {
